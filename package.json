@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-docker-kubernetes",
+  "version": "1.0.0",
+  "description": "nodejs docker kubernetes fiddle",
+  "author": "me",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Garinoth/nodejs-docker-kubernetes-fiddle.git"
+  }, 
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
